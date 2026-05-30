@@ -1,2 +1,0 @@
-# Tuzvarazslo
-Tűz varázsló játék
