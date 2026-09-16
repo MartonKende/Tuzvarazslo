@@ -1,0 +1,9 @@
+adat: rögzített információ, elemi ismeret
+információ: új ismeret
+adatmodell fogalma
+idm fogalom
+egyedkapcsolat modell-----
+	           -egyed négyzet
+  	     -tulajdonság 
+    	       -kapcsolat
+	-elsődleges kulcs
